@@ -1,2 +1,2 @@
 # Movie-review-
-ml model to check imdb rating 
+ml model to check imdb rating of movies 
